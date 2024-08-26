@@ -1,0 +1,14 @@
+#first {
+    color: blue;
+    background-color: beige;
+}
+
+.odd {
+    color: brown;
+    background-color: lightblue;
+}
+
+.even {
+    color: green;
+    background-color: rgb(230, 208, 179);
+}
